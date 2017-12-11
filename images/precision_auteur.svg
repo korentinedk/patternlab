@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="430px" height="281px" viewBox="0 0 430 281" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>precision/auteur</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="wireframes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="article-exemple" transform="translate(-290.000000, -794.000000)">
+            <g id="intro" transform="translate(288.000000, 787.000000)">
+                <g id="precision/auteur" transform="translate(2.000000, 0.000000)">
+                    <g id="l'auteur">
+                        <rect id="Rectangle-7" stroke="#000000" stroke-width="2" x="1" y="48" width="428" height="239"></rect>
+                        <text id="Paulo-Karatiki-a-pub" font-family="Futura-Light, Futura" font-size="25.3999996" font-weight="300" fill="#000000">
+                            <tspan x="17" y="83">Paulo Karatiki a publié cet article</tspan>
+                            <tspan x="17" y="111">le 23/09/2017 (9:00 am)</tspan>
+                        </text>
+                        <text id="L’auteur" font-family="Futura-CondensedExtraBold, Futura" font-size="29.4" font-style="condensed" font-weight="700" fill="#000000">
+                            <tspan x="0.070703125" y="30">L’auteur</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
